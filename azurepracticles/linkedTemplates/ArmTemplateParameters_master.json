@@ -10,6 +10,12 @@
 		},
 		"AzureBlobStorage1stage2_connectionString": {
 			"value": ""
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
 		}
 	}
 }
