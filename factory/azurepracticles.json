@@ -1,0 +1,15 @@
+{
+	"name": "azurepracticles",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "spaincentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a35dd0d7-4a6b-4af4-9c4f-6361e6fedf78",
+		"tenantId": "aaf02d91-d669-4d23-8d11-af6d5eddec64"
+	}
+}
